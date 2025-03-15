@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MobBook</string>
+    <string name="pile_of_books">Pile of books</string>
+    <string name="later">Позже</string>
+    <string name="login">Войти</string>
+    <string name="welcome">Добро\nпожаловать!</string>
 </resources>
